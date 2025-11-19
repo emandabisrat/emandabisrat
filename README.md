@@ -1,8 +1,8 @@
-### Hi there I am Emanda! 👋🏾
+## Hi there I am Emanda! 👋🏾
 
-I love learning about anything Data Science! I hope to use this profile to showcase my projects and skills, while also collaborating with others. 
+#### I love learning about anything Data Science! I hope to use this profile to showcase my projects and skills, while also collaborating with others. 
 
-I am looking forward to applying my knowledge and experience in building intelligent solutions to impact people’s lives and industries.
+#### I am looking forward to applying my knowledge and experience in building intelligent solutions to impact people’s lives and industries.
 
 
 ## About me:
