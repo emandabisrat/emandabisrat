@@ -1,3 +1,4 @@
+![alt text]([http://url/to/img.png](https://www.123rf.com/photo_94505925_vector-line-web-banner-for-data-science.html))
 ## Hi there I'm Emanda! 👋🏾
 
 I love learning about anything Data Science! I hope to use this profile to showcase my projects and skills, while also collaborating with others. I am looking forward to applying my knowledge and experience in building intelligent solutions to impact people’s lives and industries.
