@@ -1,4 +1,4 @@
-![alt text]([[http://url/to/img.png](https://www.123rf.com/photo_94505925_vector-line-web-banner-for-data-science.html)](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1801/karpenkoilia180100086/94505925-vector-line-web-banner-for-data-science.jpg))
+<img width="1300" height="515" alt="image" src="https://github.com/user-attachments/assets/30ea51d8-049b-4975-bc24-2d8138ccb60f" />
 
 ## Hi there I'm Emanda! 👋🏾
 
