@@ -1,4 +1,4 @@
-<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/30ea51d8-049b-4975-bc24-2d8138ccb60f" />
+<img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/30ea51d8-049b-4975-bc24-2d8138ccb60f" />
 
 ## Hi there I'm Emanda! 👋🏾
 
