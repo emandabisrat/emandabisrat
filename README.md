@@ -1,4 +1,6 @@
-<img width="1000" height="350" alt="image" src="https://github.com/user-attachments/assets/30ea51d8-049b-4975-bc24-2d8138ccb60f" />
+
+<img width="192" height="83" alt="image" src="https://github.com/user-attachments/assets/8cf3d894-9856-4431-8ec9-b306cb5a627e" />
+
 
 ## Hi there I'm Emanda! 👋🏾
 
@@ -10,8 +12,8 @@ I love learning about anything Data Science! I hope to use this profile to showc
 - 😄 I’m an Applied Data Science Master's student at University of Chicago
 - 👩🏾‍💻 I have a Bachelor's degree in Data Science with a minor in Statistics
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/emanda-bisrat), emandabisrat@uchicago.edu
-- 🛍️ Fun fact: I love thrifting. 2 hours and a latte is all I need
-- 🛼 Fun fact: I enjoy rollerskating on my free time 
+- 🛍️ Fun fact: I love thrifting. 2 hours and a latte is all I need :)
+- 🛼 Fun fact: I enjoy rollerskating on my free time!
 
 <!--
 **emandabisrat/emandabisrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
