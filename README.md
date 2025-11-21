@@ -1,5 +1,5 @@
 
-<img width="1000" height="350" alt="image" src="https://github.com/user-attachments/assets/50056a2a-e0b9-4fc0-a2e0-2c8fb8b263b7" />
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/72c715da-8e06-43c5-9f98-cd72d0f6cb33" />
 
 
 ## Hi there I'm Emanda! 👋🏾
@@ -9,8 +9,8 @@ I love learning about anything Data Science! I hope to use this profile to showc
 
 ## About me:
 
-- 😄 I’m an Applied Data Science Master's student at University of Chicago
-- 👩🏾‍💻 I have a Bachelor's degree in Data Science with a minor in Statistics
+- 😄 I’m an Applied Data Science Master's student at University of Chicago through the 4+1 Scholar's Program
+- 👩🏾‍💻 I have a Bachelor's degree in Data Science from the University of Chicago with a minor in Statistics
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/emanda-bisrat), emandabisrat@uchicago.edu
 - 🛍️ Fun fact: I love thrifting. 2 hours and a latte is all I need :)
 - 🛼 Fun fact: I enjoy rollerskating on my free time!
