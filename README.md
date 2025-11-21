@@ -1,5 +1,5 @@
 
-<img width="2000" height="700" alt="image" src="https://github.com/user-attachments/assets/50056a2a-e0b9-4fc0-a2e0-2c8fb8b263b7" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/50056a2a-e0b9-4fc0-a2e0-2c8fb8b263b7" />
 
 
 ## Hi there I'm Emanda! 👋🏾
