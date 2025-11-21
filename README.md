@@ -10,8 +10,8 @@ I love learning about anything Data Science! I hope to use this profile to showc
 - 😄 I’m an Applied Data Science Master's student at University of Chicago
 - 👩🏾‍💻 I have a Bachelor's degree in Data Science with a minor in Statistics
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/emanda-bisrat), emandabisrat@uchicago.edu
-- ⚡ Fun fact: I love thrifting. 2 hours and a latte is all I need
-- ⚡ Fun fact: I enjoy rollerskating on my free time 
+- 🛍️ Fun fact: I love thrifting. 2 hours and a latte is all I need
+- 🛼 Fun fact: I enjoy rollerskating on my free time 
 
 <!--
 **emandabisrat/emandabisrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
