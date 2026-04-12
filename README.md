@@ -19,16 +19,6 @@ I love learning about anything Data Science! I hope to use this profile to showc
 
 I've worked on various projects where I've applied machine learning, NLP, and data analysis to real-world problems, with a focus on interpretability and impact. 
 
-### 🔹 Dialect Classification Using NLP
-
-  Built a model to classify regional dialects based on textual patterns.
-
-  - Generated embeddings using SBERT
-  - Trained a Random Forest classifier with class balancing (SMOTE)
-  - Evaluated model performance across dialect groups
-  - Explored linguistic patterns driving classification decisions
-
-  Tech: Python, SentenceTransformers, Scikit-learn, Imbalanced-learn
 
 ### 🔹 Illinois SafeZone: End-to-End Data Engineering Pipeline
 
@@ -56,6 +46,29 @@ I've worked on various projects where I've applied machine learning, NLP, and da
 
   Tech: Python, Pandas, Scikit-learn, LLM APIs
 
+### 🔹 Student Performance & Alcohol Consumption Analysis
+
+  Developed machine learning models to analyze and predict student academic performance based on alcohol consumption patterns.
+
+  - Applied K-Means clustering to identify behavioral patterns among student groups
+  - Built Random Forest and predictive models to estimate academic outcomes
+  - Performed feature analysis to understand the impact of alcohol consumption on performance
+  - Created visualizations to effectively communicate trends and model insights
+
+  Tech: Python, Scikit-learn, Pandas, Matplotlib
+
+### 🔹 Dialect Classification Using NLP
+
+  Built a model to classify regional dialects based on textual patterns.
+
+  - Generated embeddings using SBERT
+  - Trained a Random Forest classifier with class balancing (SMOTE)
+  - Evaluated model performance across dialect groups
+  - Explored linguistic patterns driving classification decisions
+
+  Tech: Python, SentenceTransformers, Scikit-learn, Imbalanced-learn
+
+  
 ### 🔹 Immigration Sentiment & Media Bias Analysis
 
   Analyzed sentiment and language patterns in immigration-related news coverage across multiple media outlets.
