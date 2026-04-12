@@ -20,7 +20,7 @@ I love learning about anything Data Science! I hope to use this profile to showc
 I've worked on various projects where I've applied machine learning, NLP, and data analysis to real-world problems, with a focus on interpretability and impact. 
 
 
-### 🔹 Illinois SafeZone: End-to-End Data Engineering Pipeline
+### 🔹 [Illinois SafeZone: End-to-End Data Engineering Pipeline](https://github.com/emandabisrat/Illinois-Safe-Zones) 
 
   Engineered a reproducible data pipeline integrating Illinois crime data with external datasets (business licensing, median income, and       weather) to analyze public safety patterns.
 
@@ -34,7 +34,7 @@ I've worked on various projects where I've applied machine learning, NLP, and da
 
   Tech: Python, Snowflake, SQL, Streamlit, Pandas
 
-### 🔹 AI Bias in Resume Screening (LLM Evaluation)
+### 🔹 [AI Bias in Resume Screening](https://github.com/emandabisrat/AI-Discrimination-) 
 
   Investigated algorithmic bias in AI-driven hiring by evaluating how an LLM makes resume screening decisions.
 
@@ -46,7 +46,7 @@ I've worked on various projects where I've applied machine learning, NLP, and da
 
   Tech: Python, Pandas, Scikit-learn, LLM APIs
 
-### 🔹 Student Performance & Alcohol Consumption Analysis
+### 🔹 [Student Performance & Alcohol Consumption Analysis](https://github.com/emandabisrat/Academic-Performance-Predictive-Modeling-)
 
   Developed machine learning models to analyze and predict student academic performance based on alcohol consumption patterns.
 
@@ -57,7 +57,7 @@ I've worked on various projects where I've applied machine learning, NLP, and da
 
   Tech: Python, Scikit-learn, Pandas, Matplotlib
 
-### 🔹 Dialect Classification Using NLP
+### 🔹 [Dialect Classification Using NLP](https://github.com/emandabisrat/Dialect-Classification-)
 
   Built a model to classify regional dialects based on textual patterns.
 
@@ -68,18 +68,6 @@ I've worked on various projects where I've applied machine learning, NLP, and da
 
   Tech: Python, SentenceTransformers, Scikit-learn, Imbalanced-learn
 
-  
-### 🔹 Immigration Sentiment & Media Bias Analysis
-
-  Analyzed sentiment and language patterns in immigration-related news coverage across multiple media outlets.
-
-  - Scraped articles from sources such as CNN, Fox News, BBC, and Al Jazeera
-  - Standardized timestamps and built a time-series dataset of news sentiment
-  - Applied NLP techniques to measure sentiment and emotional tone
-  - Compared linguistic patterns across outlets to identify potential media bias
-  - Visualized sentiment shifts over time, especially around major policy events
-
-  Tech: Python, Selenium, NLP (NLTK / Transformers), Plotly
 
 <!--
 **emandabisrat/emandabisrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
