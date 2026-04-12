@@ -68,7 +68,7 @@ I've worked on various projects where I've applied machine learning, NLP, and da
 
   Tech: Python, SentenceTransformers, Scikit-learn, Imbalanced-learn
 
-### 🔹 Flight Delay Prediction (Classification & Regression)
+### 🔹 [Flight Delay Prediction (Classification & Regression)](https://github.com/anisadye-portfolio/Predicting-U.S.-Domestic-Flight-Delays)
 
   Developed machine learning models to predict both the likelihood and magnitude of U.S. flight delays using 30 million records of  
   historical flight data.
