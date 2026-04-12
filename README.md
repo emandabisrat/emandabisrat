@@ -13,7 +13,6 @@ I love learning about anything Data Science! I hope to use this profile to showc
 - 👩🏾‍💻 I have a Bachelor's degree in Data Science from the University of Chicago with a minor in Statistics
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/emanda-bisrat), emandabisrat@uchicago.edu
 - 🛍️ Fun fact: I love thrifting. 2 hours and a latte is all I need :)
-- 🛼 Fun fact: I enjoy rollerskating on my free time!
 
 ## Projects:
 
