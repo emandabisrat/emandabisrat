@@ -30,6 +30,44 @@ I've worked on various projects where I've applied machine learning, NLP, and da
 
   Tech: Python, SentenceTransformers, Scikit-learn, Imbalanced-learn
 
+### 🔹 Illinois SafeZone: End-to-End Data Engineering Pipeline
+
+  Engineered a reproducible data pipeline integrating Illinois crime data with external datasets (business licensing, median income, and       weather) to analyze public safety patterns.
+
+  - Built an ETL pipeline to extract and unify data from multiple heterogeneous sources
+  - Designed and implemented a relational schema in Snowflake, including DDL and automated DML workflows
+  - Performed data cleaning, transformation, and batch ingestion at scale
+  - Integrated weather data and contextual features to enrich analysis
+  - Conducted exploratory data analysis (EDA) to identify trends in crime and environmental factors
+  - Deployed an interactive Streamlit dashboard for data visualization and user exploration
+  - Incorporated modular pipeline components (MCP) for scalable and maintainable workflows
+
+  Tech: Python, Snowflake, SQL, Streamlit, Pandas
+
+### 🔹 AI Bias in Resume Screening (LLM Evaluation)
+
+  Investigated algorithmic bias in AI-driven hiring by evaluating how an LLM makes resume screening decisions.
+
+  - Generated a synthetic dataset of resumes with controlled variations in gender, education, and experience
+  - Used GPT-4o to simulate real-world hiring decisions in a standardized evaluation setup
+  - Measured disparities in selection outcomes across demographic groups
+  - Analyzed how feature representation (skills, experience) influences model decisions
+  - Provided insights into fairness risks and limitations of LLM-based hiring systems
+
+  Tech: Python, Pandas, Scikit-learn, LLM APIs
+
+### 🔹 Immigration Sentiment & Media Bias Analysis
+
+  Analyzed sentiment and language patterns in immigration-related news coverage across multiple media outlets.
+
+  - Scraped articles from sources such as CNN, Fox News, BBC, and Al Jazeera
+  - Standardized timestamps and built a time-series dataset of news sentiment
+  - Applied NLP techniques to measure sentiment and emotional tone
+  - Compared linguistic patterns across outlets to identify potential media bias
+  - Visualized sentiment shifts over time, especially around major policy events
+
+  Tech: Python, Selenium, NLP (NLTK / Transformers), Plotly
+
 <!--
 **emandabisrat/emandabisrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
