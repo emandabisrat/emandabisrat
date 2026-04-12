@@ -68,6 +68,19 @@ I've worked on various projects where I've applied machine learning, NLP, and da
 
   Tech: Python, SentenceTransformers, Scikit-learn, Imbalanced-learn
 
+### 🔹 Flight Delay Prediction (Classification & Regression)
+
+  Developed machine learning models to predict both the likelihood and magnitude of U.S. flight delays using 30 million records of  
+  historical flight data.
+
+  - Built a classification model to predict whether a flight is delayed (15+ minutes)
+  - Developed a regression model to estimate total delay time (in minutes)
+  - Implemented models including Logistic Regression, Random Forest, and Gradient Boosting
+  - Applied feature engineering and model evaluation to improve predictive performance
+  - Compared model types to understand trade-offs between accuracy and interpretability
+
+  Tech: Python, Scikit-learn, Pandas
+
 
 <!--
 **emandabisrat/emandabisrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
