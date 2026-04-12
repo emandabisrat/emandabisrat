@@ -15,6 +15,21 @@ I love learning about anything Data Science! I hope to use this profile to showc
 - 🛍️ Fun fact: I love thrifting. 2 hours and a latte is all I need :)
 - 🛼 Fun fact: I enjoy rollerskating on my free time!
 
+## Projects:
+
+I've worked on various projects where I've applied machine learning, NLP, and data analysis to real-world problems, with a focus on interpretability and impact. 
+
+### 🔹 Dialect Classification Using NLP
+
+  Built a model to classify regional dialects based on textual patterns.
+
+  - Generated embeddings using SBERT
+  - Trained a Random Forest classifier with class balancing (SMOTE)
+  - Evaluated model performance across dialect groups
+  - Explored linguistic patterns driving classification decisions
+
+  Tech: Python, SentenceTransformers, Scikit-learn, Imbalanced-learn
+
 <!--
 **emandabisrat/emandabisrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
