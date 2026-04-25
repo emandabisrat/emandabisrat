@@ -18,6 +18,23 @@ I love learning about anything Data Science! I hope to use this profile to showc
 
 I've worked on various projects where I've applied machine learning, NLP, and data analysis to real-world problems, with a focus on interpretability and impact. 
 
+### 🔹 [RAG Assistant for Technical Papers: Retrieval-Augmented QA System](https://github.com/emandabisrat/RAG_Implementation) 
+
+  Built an end-to-end Retrieval-Augmented Generation (RAG) pipeline to answer questions over dense AI research papers and evaluate the   
+  tradeoff between retrieval quality and LLM reasoning performance.
+
+  - Engineered a document processing pipeline using LangChain to ingest PDFs and split them into semantically meaningful overlapping chunks
+  - Implemented a vector search system using all-MiniLM-L6-v2 embeddings and ChromaDB for efficient similarity retrieval
+  - Designed a top-k retrieval layer with filtering to remove noisy chunks (e.g., citations and references) and improve context quality
+  - Developed a local generation module using FLAN-T5-base with prompt engineering to enforce grounded, concise, and non-hallucinated
+    responses
+  - Built an evaluation framework using RAGAS to measure faithfulness, answer relevancy, context precision, and context recall
+  - Analyzed system failures, identifying that generation quality—not retrieval—was the primary bottleneck in performance
+  - Compared retrieval vs. synthesis behavior across conceptual vs. descriptive queries to evaluate model limitations under real-world
+    constraints
+  - Derived insights on how small LLMs struggle with reasoning even when provided with high-quality retrieved context
+
+  Tech: Python, LangChain, ChromaDB, SentenceTransformers, FLAN-T5, RAGAS, PyTorch, NLP
 
 ### 🔹 [Illinois SafeZone: End-to-End Data Engineering Pipeline](https://github.com/emandabisrat/Illinois-Safe-Zones) 
 
