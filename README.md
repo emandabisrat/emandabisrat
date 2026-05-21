@@ -18,7 +18,7 @@ I love learning about anything Data Science! I hope to use this profile to showc
 
 I've worked on various projects where I've applied machine learning, NLP, and data analysis to real-world problems, with a focus on interpretability and impact. 
 
-### 🔹 [Multimodal Ecommerce Product Chatbot](https://github.com/emandabisrat/Ecommerce-RAG) 
+### 🔹 [Amazon Multimodal Ecommerce Product Chatbot](https://github.com/emandabisrat/Ecommerce-RAG) 
   Built a multimodal Retrieval-Augmented Generation (RAG) chatbot that answers ecommerce product questions using both text and image 
   inputs with CLIP embeddings, ChromaDB vector search, and Claude-based response generation.
   - Built a chatbot that answers ecommerce product questions using both text and image inputs with CLIP embeddings, ChromaDB, and LLaVA.
