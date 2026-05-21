@@ -18,6 +18,20 @@ I love learning about anything Data Science! I hope to use this profile to showc
 
 I've worked on various projects where I've applied machine learning, NLP, and data analysis to real-world problems, with a focus on interpretability and impact. 
 
+### 🔹 [Multimodal Ecommerce Product Chatbot](https://github.com/emandabisrat/Ecommerce-RAG) 
+  Built a multimodal Retrieval-Augmented Generation (RAG) chatbot that answers ecommerce product questions using both text and image 
+  inputs with CLIP embeddings, ChromaDB vector search, and Claude-based response generation.
+  - Built a chatbot that answers ecommerce product questions using both text and image inputs with CLIP embeddings, ChromaDB, and LLaVA.
+  - Processed and cleaned Amazon product data, including downloading and organizing product images
+  - Used CLIP to generate embeddings for product descriptions and images for similarity-based search
+  - Built a ChromaDB vector database to support text, image, and hybrid product retrieval
+  - Integrated LLaVA to generate product answers and recommendations using retrieved product information
+  - Evaluated retrieval performance using Recall@1, Recall@5, and Recall@10 metrics
+
+Tech: Python, CLIP, ChromaDB, LLaVA, PyTorch, Vector Search, NLP
+
+Tech: Python, CLIP, ChromaDB, Claude API, PyTorch, Multimodal RAG, Vector Search, Prompt Engineering, NLP
+
 ### 🔹 [RAG Assistant for Technical Papers: Retrieval-Augmented QA System](https://github.com/emandabisrat/RAG_Implementation) 
 
   Built an end-to-end Retrieval-Augmented Generation (RAG) pipeline to answer questions over dense AI research papers and evaluate the   
