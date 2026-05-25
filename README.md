@@ -34,7 +34,7 @@ Tech: Python, CLIP, ChromaDB, Claude API, PyTorch, Multimodal RAG, Vector Search
 
 ### 🔹 [RAG Assistant for Technical Papers: Retrieval-Augmented QA System](https://github.com/emandabisrat/RAG_Implementation) 
 
-  Built an end-to-end Retrieval-Augmented Generation (RAG) pipeline to answer questions over dense AI research papers and evaluate the   
+  Built an end-to-end Retrieval-Augmented Generation (RAG) pipeline to answer questions over dense AI research papers and evaluate the 
   tradeoff between retrieval quality and LLM reasoning performance.
 
   - Engineered a document processing pipeline using LangChain to ingest PDFs and split them into semantically meaningful overlapping chunks
