@@ -62,18 +62,6 @@ Tech: Python, CLIP, ChromaDB, LLaVA, PyTorch, Vector Search, NLP
 
   Tech: Python, Snowflake, SQL, Streamlit, Pandas
 
-### 🔹 [AI Bias in Resume Screening](https://github.com/emandabisrat/AI-Discrimination-) 
-
-  Investigated algorithmic bias in AI-driven hiring by evaluating how an LLM makes resume screening decisions.
-
-  - Generated a synthetic dataset of resumes with controlled variations in gender, education, and experience
-  - Used GPT-4o to simulate real-world hiring decisions in a standardized evaluation setup
-  - Measured disparities in selection outcomes across demographic groups
-  - Analyzed how feature representation (skills, experience) influences model decisions
-  - Provided insights into fairness risks and limitations of LLM-based hiring systems
-
-  Tech: Python, Pandas, Scikit-learn, LLM APIs
-
 ### 🔹 [Student Performance & Alcohol Consumption Analysis](https://github.com/emandabisrat/Academic-Performance-Predictive-Modeling-)
 
   Developed machine learning models to analyze and predict student academic performance based on alcohol consumption patterns.
