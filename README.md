@@ -30,8 +30,6 @@ I've worked on various projects where I've applied machine learning, NLP, and da
 
 Tech: Python, CLIP, ChromaDB, LLaVA, PyTorch, Vector Search, NLP
 
-Tech: Python, CLIP, ChromaDB, Claude API, PyTorch, Multimodal RAG, Vector Search, Prompt Engineering, NLP
-
 ### 🔹 [RAG Assistant for Technical Papers: Retrieval-Augmented QA System](https://github.com/emandabisrat/RAG_Implementation) 
 
   Built an end-to-end Retrieval-Augmented Generation (RAG) pipeline to answer questions over dense AI research papers and evaluate the 
