@@ -20,7 +20,7 @@ I've worked on various projects where I've applied machine learning, NLP, and da
 
 ### 🔹 [Amazon Multimodal Ecommerce Product Chatbot](https://github.com/emandabisrat/Ecommerce-RAG) 
   Built a multimodal Retrieval-Augmented Generation (RAG) chatbot that answers ecommerce product questions using both text and image 
-  inputs with CLIP embeddings, ChromaDB vector search, and Claude-based response generation.
+  inputs with CLIP embeddings, ChromaDB vector search, and Ollama-based response generation.
   - Built a chatbot that answers ecommerce product questions using both text and image inputs with CLIP embeddings, ChromaDB, and LLaVA.
   - Processed and cleaned Amazon product data, including downloading and organizing product images
   - Used CLIP to generate embeddings for product descriptions and images for similarity-based search
